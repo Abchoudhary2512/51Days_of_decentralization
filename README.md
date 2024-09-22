@@ -61,3 +61,31 @@ Finding this hash requires millions or even billions of attempts. Once found, th
 
 ### Conclusion:
 Proof of Work (PoW) is a powerful and secure consensus mechanism that has been fundamental to the success of Bitcoin. While PoW ensures security and decentralization, it comes with trade-offs such as high energy consumption and scalability challenges. As a result, alternative consensus mechanisms like **Proof of Stake (PoS)** are gaining popularity in newer blockchain platforms.
+
+
+### Day 7
+Protocols are a set of rules that allow data to be shared across the network. They are a set of guidelines that facilitate the exchange of information in a simple, efficient, and secure way. Different machines use different hardware and software but protocols help in communication irrespective of the difference. The protocols play a very important role as they help to monitor and secure a computer network.
+
+Why Does Blockchain Need a Protocol?
+A blockchain is a chain of blocks where each block is used to store information and each block is associated with a unique address in terms of hash. It is a distributed, decentralized ledger that stores data such as transactions and is shared publicly across all the nodes that are present in the network. Ledger means the main record which holds the list of transaction records and distributed means that each machine is connected to one another. So there is no involvement of any central authority or middlemen which satisfies the property of decentralization. 
+
+But to maintain how data is transferred across the networks in a secured manner, a set of protocols is required. Since blockchains are used for transactions, protocols play a very important role in data sharing so as to maintain the security of the cryptocurrency networks.
+
+What is Blockchain Protocols?
+Blockchain protocols are a set of protocols used to govern the blockchain network. The rules define the interface of the network, interaction between the computers, incentives, kind of data, etc. The protocols aim to address the four principles: 
+
+Security: Protocols maintain the security of the whole crypto network. Since the network involves the transfer of money so protocols define the structure of data and also secure data from the malicious users.
+Decentralization: Blockchain is a decentralized network. There is no involvement of any central authority. So the protocols authorize the whole network.
+Consistency: Whenever a transaction occurs, protocols update the whole database at each step so that each user is well versed with the whole crypto network.
+Scalability: Scalability means an increase in the number of transactions. Earlier scalability was an issue in the blockchain. But nowadays most protocols handle the issue of an increasing number of transactions in the network and the addition of nodes to the network.
+Each and every transaction is verified by the developers and is stored so that each individual can have access to the transaction and protocols helps to maintain this transparency.
+
+How Does Blockchain Protocol Work?
+Suppose there is a transaction between two individuals A and B. 
+
+Individual A makes a request to make a transaction. A block for ‘A’ is created. This block once created cannot be altered. This is done by the blockchain protocol. 
+After this, the block is sent to each and everyone in the network. This distribution of blocks across the network is also done by protocols. 
+The nodes verify the transaction. 
+After the verification, a reward is sent to each node. The sending of incentives is also managed by protocol. Upon successful transaction, the block is added to the list. Protocols update the database. The updated database is distributed across the network by the protocols so that each user has access to the summary of the whole network.  
+After this the transaction is complete. 
+So there is the involvement of protocols at each step for a secured transaction. Therefore the whole crypto network is secured, scalable and consistent. 
